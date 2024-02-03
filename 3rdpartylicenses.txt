@@ -14983,6 +14983,9 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 
+speak-tts
+MIT
+
 split-on-first
 MIT
 MIT License
